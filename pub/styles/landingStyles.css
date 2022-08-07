@@ -1,0 +1,69 @@
+body {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+#title {
+  display: block;
+  text-align: center;
+  line-height: 60px;
+  font-size: 200px;
+  letter-spacing: 2px;
+  color: #000;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+#title svg,
+#title svg rect {
+  width: 100%;
+  height: 200px;
+  fill: transparent;
+  position: relative;
+  top: 110px;
+}
+
+#title svg rect {
+  stroke: #000;
+  stroke-width: 8;
+  stroke-dasharray: 2900;
+  stroke-dashoffset: 2900;
+  transition: 1.5s;
+}
+
+#title:hover svg rect {
+  stroke-dashoffset: 0;
+}
+
+#subtitle {
+  font-size: 20px;
+}
+
+#options {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+  min-width: 400px;
+}
+
+#options a {
+  padding: 4px;
+  font-size: 30px;
+  color: black;
+  text-decoration: none;
+  border: thin solid;
+}
+
+#options a:hover {
+  text-decoration: none;
+  border: 4px solid #fff8dc;
+  box-shadow: 0 0 4px black;
+  transition: all 0.1s ease-in-out;
+}
