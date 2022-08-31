@@ -1,5 +1,7 @@
 # Tutorial.js
 
+A vanilla JS library to help you create interactive and flexible tutorials for your website.
+
 # Getting Started
 Steps to follow:
 Add CSS link tag to "tutotialjsStyles.css." Before or after ur own CSS files depending on your needs. Adding it after may override your own styles.
