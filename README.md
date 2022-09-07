@@ -4,7 +4,7 @@ A vanilla JS library to help you create interactive and flexible tutorials for y
 
 # Getting Started
 Steps to follow:
-Add CSS link tag to "tutotialjsStyles.css." Before or after ur own CSS files depending on your needs. Adding it after may override your own styles.
+Add CSS link tag to "tutorialjsStyles.css." Before or after ur own CSS files depending on your needs. Adding it after may override your own styles.
 Add script tag to "tutorial.js" before your own script. You should end up with something like this:
 
 <!DOCTYPE html>
