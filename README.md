@@ -1,4 +1,4 @@
-# Tutorial.js
+# tutorial.js
 
 A vanilla JS library to help you create interactive and flexible tutorials for your website.
 
