@@ -24,6 +24,6 @@ Add script tag to "tutorial.js" before your own script. You should end up with s
 Now you can use the Tutorial object in your code!
 
 # URLs
-Landing Page: https://saqibali-2k.github.io/Tutorial.js/
+Landing Page: https://saqib-ali.com/Tutorial.js/
 
-Documentation: https://saqibali-2k.github.io/Tutorial.js/documentation.html
+Documentation: https://saqib-ali.com/Tutorial.js/documentation.html
