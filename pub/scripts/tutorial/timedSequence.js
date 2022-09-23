@@ -68,7 +68,6 @@ function createHighlightDiv(outlineColor) {
 // Recursive function that propogates a sequence
 
 function sequenceTransition(sequence, repititions) {
-  console.log(repititions);
   if (sequence.currIndex < sequence.elements.length && repititions != 0) {
     // Highlight the next DOM element in the sequence
     const nextElem = sequence.elements[sequence.currIndex];
