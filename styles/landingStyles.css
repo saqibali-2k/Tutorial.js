@@ -11,13 +11,11 @@ body {
 
 #title {
   display: block;
-  text-align: center;
   line-height: 60px;
   font-size: 200px;
   letter-spacing: 2px;
   color: #000;
   text-decoration: none;
-  transition: 0.5s;
 }
 
 #title svg,
